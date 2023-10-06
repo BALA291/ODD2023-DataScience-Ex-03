@@ -9,12 +9,16 @@ Univariate Analysis:Data consists of only one variable (only x value).
 1.Line Plots / Bar Charts
 <br>
 2.Histograms
+<br>
 3.Box Plots
+<br>
 4.Count Plots
+<br>
 5.Descriptive Statistics techniques
+<br>
 6.Violin Plot
 
-#ALGORITHM
+# ALGORITHM
 Step 1
 Read the given data.
 
