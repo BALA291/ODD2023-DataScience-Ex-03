@@ -11,8 +11,8 @@ Univariate analysis is basically the simplest form to analyze data. Uni means on
 - Step 5: Count the values from the data.
 ## Program:
 ```
-Developed By : ADHITHYARAM D
-Register number: 212222230008
+Developed By : BALAMURUGAN B
+Register number: 212222230016
 ```
 ### Superstore.csv
 ```
